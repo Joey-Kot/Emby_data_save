@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<collection>
+  <plot><![CDATA[一个科幻动作片系列，以战士级的外星物种为中心，这些物种具有技术先进的武器，这些武器可以前往地球，为了奖杯狩猎人类。]]></plot>
+  <outline><![CDATA[一个科幻动作片系列，以战士级的外星物种为中心，这些物种具有技术先进的武器，这些武器可以前往地球，为了奖杯狩猎人类。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-04 16:21:04</dateadded>
+  <title>铁血战士（系列）</title>
+  <mpaa>US:R / US:Rated R</mpaa>
+  <tmdbid>399</tmdbid>
+  <genre>科幻</genre>
+  <genre>动作</genre>
+  <genre>冒险</genre>
+  <genre>惊悚</genre>
+  <uniqueid type="Tmdb">399</uniqueid>
+  <displayorder>PremiereDate</displayorder>
+</collection>

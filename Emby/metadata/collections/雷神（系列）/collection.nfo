@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<collection>
+  <plot><![CDATA[超级英雄电影系列，基于漫威漫画公司出版的同名漫画人物，以及漫威电影宇宙（MCU）电影系列的一部分。该系列以阿斯加德的王储托尔为核心。]]></plot>
+  <outline><![CDATA[超级英雄电影系列，基于漫威漫画公司出版的同名漫画人物，以及漫威电影宇宙（MCU）电影系列的一部分。该系列以阿斯加德的王储托尔为核心。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-23 12:27:16</dateadded>
+  <title>雷神（系列）</title>
+  <mpaa>US:PG-13 / US:Rated PG-13</mpaa>
+  <tmdbid>131296</tmdbid>
+  <genre>冒险</genre>
+  <genre>魔幻</genre>
+  <genre>动作</genre>
+  <genre>科幻</genre>
+  <uniqueid type="Tmdb">131296</uniqueid>
+  <displayorder>PremiereDate</displayorder>
+</collection>

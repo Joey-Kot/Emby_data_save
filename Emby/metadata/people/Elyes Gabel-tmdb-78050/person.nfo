@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<person>
+  <plot />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-04 16:07:34</dateadded>
+  <title>Elyes Gabel</title>
+  <year>1983</year>
+  <imdbid>nm1175468</imdbid>
+  <tmdbid>78050</tmdbid>
+  <premiered>1983-05-08</premiered>
+  <releasedate>1983-05-08</releasedate>
+  <placeofbirth>Westminster, London, England, UK</placeofbirth>
+  <uniqueid type="Tmdb">78050</uniqueid>
+  <uniqueid type="Imdb">nm1175468</uniqueid>
+</person>
