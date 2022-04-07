@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2022-04-04T16:00:00.0103634Z","EndTimeUtc":"2022-04-04T16:00:00.0123499Z","Status":"Completed","Name":"Rotate log file","Id":"c3f011675d868fcc11e278b847523ef5"}
