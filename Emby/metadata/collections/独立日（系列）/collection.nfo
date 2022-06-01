@@ -5,11 +5,12 @@
   <lockdata>false</lockdata>
   <dateadded>2021-12-23 12:27:03</dateadded>
   <title>独立日（系列）</title>
+  <sorttitle>独立日（系列）</sorttitle>
   <mpaa>US:PG-13 / US:Rated PG-13</mpaa>
   <tmdbid>304378</tmdbid>
   <genre>动作</genre>
   <genre>冒险</genre>
   <genre>科幻</genre>
-  <uniqueid type="Tmdb">304378</uniqueid>
+  <uniqueid type="tmdb">304378</uniqueid>
   <displayorder>PremiereDate</displayorder>
 </collection>
