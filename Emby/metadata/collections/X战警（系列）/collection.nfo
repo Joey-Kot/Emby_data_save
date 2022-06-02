@@ -5,6 +5,7 @@
   <lockdata>false</lockdata>
   <dateadded>2021-12-23 12:26:05</dateadded>
   <title>X战警（系列）</title>
+  <sorttitle>X战警（系列）</sorttitle>
   <mpaa>US:PG-13 / US:Rated PG-13</mpaa>
   <tmdbid>748</tmdbid>
   <genre>冒险</genre>
@@ -12,6 +13,6 @@
   <genre>科幻</genre>
   <genre>惊悚</genre>
   <genre>魔幻</genre>
-  <uniqueid type="Tmdb">748</uniqueid>
+  <uniqueid type="tmdb">748</uniqueid>
   <displayorder>PremiereDate</displayorder>
 </collection>
