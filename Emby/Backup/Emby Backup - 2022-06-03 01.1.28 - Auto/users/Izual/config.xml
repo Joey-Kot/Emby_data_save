@@ -16,4 +16,6 @@
   <RememberAudioSelections>true</RememberAudioSelections>
   <RememberSubtitleSelections>true</RememberSubtitleSelections>
   <EnableNextEpisodeAutoPlay>true</EnableNextEpisodeAutoPlay>
+  <ResumeRewindSeconds>0</ResumeRewindSeconds>
+  <IntroSkipMode>ShowButton</IntroSkipMode>
 </UserConfiguration>

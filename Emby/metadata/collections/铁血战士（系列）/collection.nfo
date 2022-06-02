@@ -5,12 +5,14 @@
   <lockdata>false</lockdata>
   <dateadded>2022-01-04 16:21:04</dateadded>
   <title>铁血战士（系列）</title>
+  <sorttitle>铁血战士（系列）</sorttitle>
   <mpaa>US:R / US:Rated R</mpaa>
   <tmdbid>399</tmdbid>
   <genre>科幻</genre>
   <genre>动作</genre>
   <genre>冒险</genre>
   <genre>惊悚</genre>
-  <uniqueid type="Tmdb">399</uniqueid>
+  <genre>悬疑</genre>
+  <uniqueid type="tmdb">399</uniqueid>
   <displayorder>PremiereDate</displayorder>
 </collection>
