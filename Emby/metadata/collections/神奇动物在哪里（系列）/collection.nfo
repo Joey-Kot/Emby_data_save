@@ -5,11 +5,13 @@
   <lockdata>false</lockdata>
   <dateadded>2021-12-23 12:27:07</dateadded>
   <title>神奇动物在哪里（系列）</title>
+  <sorttitle>神奇动物在哪里（系列）</sorttitle>
   <mpaa>US:PG-13 / US:Rated PG-13</mpaa>
   <tmdbid>435259</tmdbid>
-  <genre>冒险</genre>
   <genre>魔幻</genre>
-  <genre>剧情</genre>
-  <uniqueid type="Tmdb">435259</uniqueid>
+  <genre>冒险</genre>
+  <genre>动作</genre>
+  <genre>奇幻</genre>
+  <uniqueid type="tmdb">435259</uniqueid>
   <displayorder>PremiereDate</displayorder>
 </collection>
